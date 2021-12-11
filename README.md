@@ -6,7 +6,7 @@ The new Horiseon website that meets accessiblity standards and has semantic HTML
 
 ## Screenshot
 
-![A screenshot of the website](./assets/images/01-html-css-git-homework-demo.png)
+![A screenshot of the website](./assets/images/screenshot.png)
 
 ## Links to Application
 
